@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-firebase">
+      <rect width="50" height="50"></rect>
+    </clipPath>
+  </defs>
+  <g id="firebase" clip-path="url(#clip-firebase)">
+    <g id="firebase-2" data-name="firebase" transform="translate(3.665 0)">
+      <path id="Path_3" data-name="Path 3" d="M19.728,14.34l-5,4.656L10.086,9.63l2.4-5.385c.606-1.075,1.6-1.087,2.2,0Z" transform="translate(7.313 3.72)" fill="#ffa000"></path>
+      <path id="Path_4" data-name="Path 4" d="M22.041,15.772,3.335,33.17,17.4,6.408Z" transform="translate(0 6.942)" fill="#f57f17"></path>
+      <path id="Path_5" data-name="Path 5" d="M32.523,5.506c.9-.854,1.819-.565,2.052.646l4.862,28.291L23.309,44.127a7.42,7.42,0,0,1-2.067.44,7.629,7.629,0,0,1-1.887-.454L3.336,34.679,32.523,5.506Z" transform="translate(0.001 5.434)" fill="#ffca28"></path>
+      <path id="Path_6" data-name="Path 6" d="M17.4,13.35,3.336,40.112,9.6.994c.235-1.212.923-1.335,1.542-.262L17.4,13.35Z" transform="translate(0.001 0)" fill="#ffa000"></path>
+    </g>
+  </g>
+</svg>

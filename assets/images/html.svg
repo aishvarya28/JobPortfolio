@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-html">
+      <rect width="50" height="50"></rect>
+    </clipPath>
+  </defs>
+  <g id="html" clip-path="url(#clip-html)">
+    <g id="html-2" data-name="html" transform="translate(6.555)">
+      <path id="Path_11" data-name="Path 11" d="M35.868,70.766l-3.227,36.152L18.135,110.94,3.669,106.924.445,70.766Z" transform="translate(0 -60.94)" fill="#e44d26"></path>
+      <path id="Path_12" data-name="Path 12" d="M128,126.2l11.722-3.25,2.758-30.894H128Z" transform="translate(-109.843 -79.274)" fill="#f16529"></path>
+      <path id="Path_13" data-name="Path 13" d="M52.763,128.43h6.273V124H47.917l.106,1.19,1.09,12.221h9.924v-4.435H53.169Zm1,11.193H49.311l.621,6.963,9.084,2.522.02-.006v-4.614l-.019.005-4.939-1.334Z" transform="translate(-40.88 -106.778)" fill="#ebebeb"></path>
+      <path id="Path_14" data-name="Path 14" d="M24.18,0h2.254V2.227H28.5V0h2.254V6.743H28.5V4.485H26.434V6.743H24.18V0Zm9.532,2.236H31.729V0h6.223V2.236H35.966V6.743H33.713V2.236h0ZM38.939,0h2.35l1.445,2.369L44.178,0h2.351V6.743H44.285V3.4l-1.55,2.4H42.7L41.144,3.4V6.743H38.939Zm8.712,0H49.9V4.514h3.169V6.743H47.651V0Z" transform="translate(-20.439)"></path>
+      <path id="Path_15" data-name="Path 15" d="M127.889,137.405h5.461l-.515,5.751-4.946,1.335v4.614l9.091-2.52.067-.749,1.042-11.675.108-1.191H127.889Zm0-8.987v.011H138.6l.089-1,.2-2.248L139,124H127.889v4.424Z" transform="translate(-109.748 -106.778)" fill="#fff"></path>
+    </g>
+  </g>
+</svg>
